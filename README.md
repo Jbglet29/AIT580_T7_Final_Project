@@ -11,6 +11,8 @@ Once those packages are downloaded, simply go to "Cells", then "Run All", to run
 
 Do not try to run a lower cell without running the cells before it, as they are often calling variables from previous cells. 
 
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 The notebook is formatted as such: 
 
 1.0 Imports
