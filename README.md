@@ -1,7 +1,7 @@
 # AIT580_T7_Final_Project
 AIT580 Final Project - Diamond Data Analysis
 
-We created a Python workbook in Jupyter Lab to analyze Tiffany & Co 2017 Price List data. 
+We created a Python workbook in Jupyter Lab to analyze Tiffany & Co 2017 Price List data. The dataset is included as the file DiamondData.csv. 
 
 Make sure the csv file is in the same folder as the notebook file. 
 
