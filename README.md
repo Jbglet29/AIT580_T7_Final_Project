@@ -3,7 +3,15 @@ AIT580 Final Project - Diamond Data Analysis
 
 We created a Python workbook in Jupyter Lab to analyze Tiffany & Co 2017 Price List data. 
 
-The workbook is formatted as such: 
+Make sure the csv file is in the same folder as the notebook file. 
+
+Ensure that you have Pandas, Numpy, Matplotlib, and Sklearn downloaded and in your environment. 
+
+Once those packages are downloaded, simply go to "Cells", then "Run All", to run all the cells. You can also run each cell individually as you go through the notebook.
+
+Do not try to run a lower cell without running the cells before it, as they are often calling variables from previous cells. 
+
+The notebook is formatted as such: 
 
 1.0 Imports
 
